@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 833,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Jocono Web Beta App",
+    "url": "https://app.beta.jocono.de",
+    "icon": "https://icons.duckduckgo.com/ip3/app.beta.jocono.de.ico",
+    "slug": "jocono-web-beta-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/darlingproperty.backendless.app.ico",
     "slug": "jocono-backend",
     "status": "down",
-    "uptime": "73.84%",
-    "uptimeDay": "73.84%",
-    "uptimeWeek": "73.84%",
-    "uptimeMonth": "73.84%",
-    "uptimeYear": "73.84%",
+    "uptime": "6.26%",
+    "uptimeDay": "6.26%",
+    "uptimeWeek": "6.26%",
+    "uptimeMonth": "6.26%",
+    "uptimeYear": "6.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-07": 0
+      "2023-02-07": 8
     }
   }
 ]
