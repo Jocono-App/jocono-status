@@ -21,6 +21,8 @@ status-website:
   name: Jocono Status
   introTitle:  ""
   introMessage: "" 
+  favicon: https://status.jocono.de/assets/favicon-96x96.png
+  theme: dark
   navbar:
     - title: Home
       href: /
