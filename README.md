@@ -25,8 +25,3 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://status.jocono.de)
 
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Jocono](jocono.de)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
