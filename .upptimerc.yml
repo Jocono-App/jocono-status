@@ -2,6 +2,10 @@
 owner: jocono-app # Your GitHub organization or username, where this repository lives
 repo: jocono-status # The name of this repository
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+  
 sites:
   - name: Jocono Landing
     url: https://www.jocono.de
@@ -29,9 +33,6 @@ status-website:
     - name: "robots"
       content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
-  skipDescriptionUpdate: true
-  skipTopicsUpdate: true
-  skipHomepageUpdate: true
   navbar:
     - title: Home
       href: /
