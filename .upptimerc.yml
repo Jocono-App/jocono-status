@@ -7,6 +7,8 @@ sites:
     url: https://www.jocono.de
   - name: Jocono Web App
     url: https://app.jocono.de
+  - name: Jocono Web Beta App
+    url: https://app.beta.jocono.de
   - name: Jocono Backend
     url: https://darlingproperty.backendless.app
 
@@ -20,10 +22,14 @@ status-website:
   introTitle:  ""
   introMessage: "" 
   navbar:
-    - title: Status
+    - title: Home
       href: /
-    - title: Status Website
+    - title: jocono.de
       href: https://jocono.de
+    - title: app.jocono.de
+      href: https://app.jocono.de
+    - title: app.beta.jocono.de
+      href: https://app.beta.jocono.de
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
