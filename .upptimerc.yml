@@ -22,7 +22,7 @@ status-website:
   introTitle:  ""
   introMessage: "" 
   favicon: https://status.jocono.de/assets/favicon-96x96.png
-  theme: dark
+  theme: light
   metaTags:
     - name: "color-scheme"
       content: "dark light"
