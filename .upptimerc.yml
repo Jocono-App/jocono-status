@@ -25,7 +25,8 @@ status-website:
   name: Jocono Status
   introTitle:  ""
   introMessage: "" 
-  favicon: https://status.jocono.de/assets/favicon-96x96.png
+  favicon: https://jocono.de/assets/appicon.png
+ # faviconSvg: https://example.com/logo.svg
   theme: light
   metaTags:
     - name: "color-scheme"
