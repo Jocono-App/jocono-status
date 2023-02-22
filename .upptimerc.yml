@@ -15,7 +15,9 @@ sites:
     url: https://app.beta.jocono.de
   - name: Jocono Backend
     url: https://eu-api.backendless.com/0A320D1F-05D1-4A76-FF0F-4905268F6100/8B3EF612-BBD4-4038-B20B-646431B93DB8/services/AssignRoleService/health
-
+assignees: # Users to assign downtime issues (optional)
+  - appbieger
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
