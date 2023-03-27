@@ -40,9 +40,9 @@
     "url": "https://app.beta.jocono.de",
     "icon": "https://icons.duckduckgo.com/ip3/app.beta.jocono.de.ico",
     "slug": "jocono-web-beta-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 150,
     "timeMonth": 191,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-27": 0
+    }
   },
   {
     "name": "Jocono Backend",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu-api.backendless.com.ico",
     "slug": "jocono-backend",
     "status": "up",
-    "uptime": "68.77%",
+    "uptime": "69.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "68.77%",
+    "uptimeYear": "69.23%",
     "time": 945,
     "timeDay": 846,
     "timeWeek": 607,
