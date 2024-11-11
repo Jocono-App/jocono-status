@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 394,
-    "timeDay": 382,
-    "timeWeek": 331,
-    "timeMonth": 348,
-    "timeYear": 371,
+    "time": 395,
+    "timeDay": 637,
+    "timeWeek": 381,
+    "timeMonth": 358,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-11-13": 1170,
-      "2023-11-12": 1440
+      "2023-11-13": 1170
     }
   },
   {
@@ -32,13 +31,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 194,
-    "timeDay": 180,
-    "timeWeek": 154,
-    "timeMonth": 169,
-    "timeYear": 177,
+    "timeDay": 332,
+    "timeWeek": 182,
+    "timeMonth": 174,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2023-11-13": 1429,
-      "2023-11-12": 1440
+      "2023-11-13": 1429
     }
   },
   {
@@ -47,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.beta.jocono.de.ico",
     "slug": "jocono-web-beta-app",
     "status": "down",
-    "uptime": "42.54%",
+    "uptime": "42.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.34%",
+    "uptimeYear": "0.07%",
     "time": 221,
-    "timeDay": 185,
-    "timeWeek": 236,
-    "timeMonth": 189,
-    "timeYear": 245,
+    "timeDay": 324,
+    "timeWeek": 257,
+    "timeMonth": 194,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-11-10": 26,
+      "2024-11-11": 25,
+      "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
@@ -421,8 +420,7 @@
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
-      "2023-11-13": 1440,
-      "2023-11-12": 1440
+      "2023-11-13": 1440
     }
   },
   {
@@ -437,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 840,
-    "timeDay": 472,
-    "timeWeek": 512,
-    "timeMonth": 564,
+    "timeDay": 759,
+    "timeWeek": 547,
+    "timeMonth": 571,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2024-10-08": 15,
