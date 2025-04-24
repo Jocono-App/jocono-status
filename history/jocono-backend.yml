@@ -1,7 +1,7 @@
 url: https://eu-api.backendless.com/0A320D1F-05D1-4A76-FF0F-4905268F6100/8B3EF612-BBD4-4038-B20B-646431B93DB8/services/AssignRoleService/health
-status: up
-code: 200
-responseTime: 595
-lastUpdated: 2025-04-23T23:01:16.748Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-04-24T08:56:15.267Z
 startTime: 2023-02-07T22:08:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
