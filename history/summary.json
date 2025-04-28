@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 269,
-    "timeWeek": 364,
-    "timeMonth": 379,
+    "timeDay": 355,
+    "timeWeek": 374,
+    "timeMonth": 378,
     "timeYear": 376,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 100,
-    "timeWeek": 210,
+    "timeDay": 162,
+    "timeWeek": 211,
     "timeMonth": 183,
-    "timeYear": 176,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.beta.jocono.de.ico",
     "slug": "jocono-web-beta-app",
     "status": "down",
-    "uptime": "33.70%",
+    "uptime": "33.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.14%",
     "time": 212,
-    "timeDay": 482,
-    "timeWeek": 264,
+    "timeDay": 193,
+    "timeWeek": 271,
     "timeMonth": 201,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-04-27": 30,
+      "2025-04-28": 29,
+      "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -415,8 +416,7 @@
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
-      "2024-04-29": 1440,
-      "2024-04-28": 1440
+      "2024-04-29": 1440
     }
   },
   {
@@ -431,9 +431,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.79%",
     "time": 863,
-    "timeDay": 677,
-    "timeWeek": 721,
-    "timeMonth": 661,
+    "timeDay": 658,
+    "timeWeek": 729,
+    "timeMonth": 663,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2025-04-24": 30,
