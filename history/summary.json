@@ -4,9 +4,9 @@
     "url": "https://www.jocono.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.jocono.de.ico",
     "slug": "jocono-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 378,
     "timeMonth": 388,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "Jocono Web App",
     "url": "https://app.jocono.de",
     "icon": "https://icons.duckduckgo.com/ip3/app.jocono.de.ico",
     "slug": "jocono-web-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 196,
     "timeMonth": 171,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "Jocono Web Beta App",
@@ -41,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.beta.jocono.de.ico",
     "slug": "jocono-web-beta-app",
     "status": "down",
-    "uptime": "32.38%",
+    "uptime": "32.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -52,7 +56,7 @@
     "timeMonth": 177,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2025-05-30": 29,
+      "2025-05-30": 1308,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -425,18 +429,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu-api.backendless.com.ico",
     "slug": "jocono-backend",
     "status": "down",
-    "uptime": "95.60%",
+    "uptime": "95.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.02%",
-    "uptimeYear": "94.24%",
+    "uptimeMonth": "29.10%",
+    "uptimeYear": "94.00%",
     "time": 828,
     "timeDay": 419,
     "timeWeek": 487,
     "timeMonth": 569,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2025-05-30": 29,
+      "2025-05-30": 1308,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
